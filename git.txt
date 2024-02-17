@@ -5,8 +5,8 @@
 5)git branch
 6)git branch main
 7)git checkout main
-8)git rebase origin/main
-9)git fetch origin main
+8)git fetch origin main
+9)git rebase origin/main
 10)git pull origin main
 11)git push origin main
 
