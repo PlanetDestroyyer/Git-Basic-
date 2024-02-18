@@ -1,3 +1,5 @@
+WHEN README FILE IS CREATED AND MAIN IS DEFAULT BRANCH
+
 1)git init
 2)git add .
 3)git commit -m "Your Commit name"
@@ -12,3 +14,11 @@
 
 
 
+WHEN README FILE IS NOT CREATED YET JUST MADE NEW REPO
+
+1)git init
+2)git add .
+3)git commit -m "Your Commit name"
+4)git branch -M main
+5)git remote add origin <url>
+6)git push -u origin main
